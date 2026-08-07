@@ -5,6 +5,8 @@ void main() {
   // a > b ? print("$a is grater than $b") : print("$b is grater than $a");
 
   // SWITCH CASE
+  // ------ Applicable for only "int" and "string" -------
+
   String grade = 'u';
 
   switch (grade) {
